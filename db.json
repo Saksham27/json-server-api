@@ -1,0 +1,22 @@
+{
+	"employees": [
+		{
+			"first_name": "Saksham",
+			"last_name": "Singh",
+			"email": "saksham@bridgelabz.com",
+			"id": 2
+		},
+		{
+			"id": 3,
+			"first_name": "Rahul",
+			"last_name": "Singhania",
+			"email": "rahul@bridgelabz.com"
+		},
+		{
+			"first_name": "Mayank",
+			"last_name": "Rawat",
+			"email": "mayank@bridgelabz.com",
+			"id": 4
+		}
+	]
+}
